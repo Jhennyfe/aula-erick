@@ -1,0 +1,15 @@
+img {
+    height: 200px;
+    display: block;
+    margin: 0px auto;
+
+}
+
+h1,
+p,
+a {
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+
+}
